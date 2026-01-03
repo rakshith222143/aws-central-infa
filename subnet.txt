@@ -1,0 +1,3 @@
+created public subnet and private subnet
+public subnet /24
+private subnet /44
