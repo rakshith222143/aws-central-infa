@@ -1,0 +1,4 @@
+#!/bin/bash
+echo enter the internet gateway id
+read a
+echo dispaly ur id $a
