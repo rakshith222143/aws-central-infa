@@ -2,3 +2,4 @@
 echo "enter user name "
 read a
 echo "my name is $a"
+add my new vpc data /16 cidr
