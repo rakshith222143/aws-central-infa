@@ -1,0 +1,1 @@
+trigger jenkin show using poll-scm option
