@@ -1,1 +1,1 @@
-trigger jenkin show using poll-scm option
+this is my new triger from github to jenkins
